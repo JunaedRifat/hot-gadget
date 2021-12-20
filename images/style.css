@@ -1,11 +1,19 @@
 .orange-bg{
     background-color: aqua;
 }
+
+
 .carousel-item{
     padding: 20px 40px;
 }
 .just{
     text-align: center;
+    text-decoration: chocolate;
+    
+}
+.below{
+    margin-top : 100px;
+    
 }
 
 .foot{
@@ -14,3 +22,4 @@
     background-color: brown;
     text-decoration-color: cornsilk;
 }
+
